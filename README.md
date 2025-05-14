@@ -9,5 +9,3 @@ The Smart Communication Model is an AI-powered multimodal system designed to ass
 - Object Detection: Identifies objects in real-time from camera input.
 - Gesture Recognition: Detects and classifies hand gestures for command execution.
 - Image to Text: Uses OCR (Optical Character Recognition) to extract text from images.
-
-
